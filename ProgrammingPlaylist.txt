@@ -1,0 +1,10 @@
+Tab separated file of an awesome playlist for programming
+Awesome song for programming	Artist
+"Relish"	JEFF the Brotherhood
+"Bittersweet Symphony"	The Verve
+"Baby Sings Folk Songs"	The Astronauts
+"Quick Canal"	Atlas Sound, Laetita Sadier
+"Dog, Cat"	Afrosound
+"Isn't it True"	Hope Sandoval and the Warm Inventions
+"Drone"	Chastity Belt
+
