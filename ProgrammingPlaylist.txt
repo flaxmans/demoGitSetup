@@ -10,4 +10,6 @@ Awesome song for programming	Artist
 "Drone"	Chastity Belt
 "Horizontalidad"	Krudas Cubensi
 "Tabaco y Ron"	Rodolfo y su Tipica RA7
+"Remote song" Remote Artist
+
 
