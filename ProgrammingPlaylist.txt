@@ -11,5 +11,6 @@ Awesome song for programming	Artist
 "Horizontalidad"	Krudas Cubensi
 "Tabaco y Ron"	Rodolfo y su Tipica RA7
 "Local Song"	Local Artist
+"Remote song" Remote Artist
 
 
